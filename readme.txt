@@ -1,6 +1,3 @@
-xzwsonic
-sonic
 apple
-irene
-ironic
+sonic
 xuezhiwei
